@@ -1,4 +1,4 @@
-from Cuenta import*
+from Cuenta import *
 class Pruebas:
   pass
   print("Algo")
